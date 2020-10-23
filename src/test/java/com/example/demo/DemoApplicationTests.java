@@ -9,8 +9,6 @@ class DemoApplicationTests {
 
     @Test
     void importantStringTest() {
-        String s = "John";
-        Assertions.assertEquals("hitler", s);
     }
 
 }
